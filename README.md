@@ -1,0 +1,2 @@
+# House-Price-Prediction-using-Multiple-Linear-Regression-NumPy-Scikit-learn-
+This project implements a house price prediction model using Multiple Linear Regression. The model predicts house prices based on two features: area (sqft) and number of bedrooms.  The project focuses on:  Understanding feature–coefficient relationships  Correct data shaping for multi-feature regression  Interpreting coefficients and intercept  
